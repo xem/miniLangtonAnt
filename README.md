@@ -1,6 +1,6 @@
 MiniLangtonAnt
 ==
 
-163b+ Langton Ant simulator
+Langton Ant simulator in HTML + ES6: http://xem.github.io/miniLangtonAnt (162b)
 
 Also fits in a tweet: https://twitter.com/MaximeEuziere/status/733633385013350400
