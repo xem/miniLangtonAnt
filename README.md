@@ -1,6 +1,8 @@
 MiniLangtonAnt
 ==
 
-Langton Ant simulator in HTML + ES6: http://xem.github.io/miniLangtonAnt (160b)
+by xem, subzey, aemkei
 
-Also fits in a tweet: https://twitter.com/MaximeEuziere/status/733633385013350400
+Langton Ant simulator in HTML + ES6: http://xem.github.io/miniLangtonAnt (155b)
+
+Also fits in a tweet: https://twitter.com/MaximeEuziere/status/734006787150622720
